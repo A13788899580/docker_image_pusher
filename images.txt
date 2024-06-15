@@ -16,3 +16,8 @@ xhofe/alist:latest
 hectorqin/reader:latest
 ghcr.io/open-webui/open-webui
 filebrowser/filebrowser:latest
+frooodle/s-pdf:latest
+herberthe0229/iptv-sources
+1panel/maxkb:latest
+ddsderek/easyimage:latest
+elestio/searxng:latest
