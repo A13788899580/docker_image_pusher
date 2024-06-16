@@ -1,4 +1,4 @@
-xhofe/alist:latest
+xhofe/alist:main
 xiaoyaliu/alist:latest
 whyour/qinglong:latest
 ollama/ollama:latest
@@ -7,7 +7,7 @@ hslr/sun-panel:latest
 bytemark/webdav:latest
 linuxserver/ffmpeg:latest
 alexta69/metube:latest
-jellyfin/jellyfin:latest
+jellyfin/jellyfin:2024061005
 lobehub/lobe-chat:latest
 gdy666/lucky:latest
 mzz2017/v2raya:latest
