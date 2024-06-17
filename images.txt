@@ -22,3 +22,5 @@ herberthe0229/iptv-sources
 ddsderek/easyimage:latest
 elestio/searxng:latest
 ghcr.io/alexta69/metube:latest
+minio/minio:latest
+vinlic/qwen-free-api:latest
