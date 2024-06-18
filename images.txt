@@ -1,6 +1,7 @@
 1panel/maxkb:latest
 alexta69/metube:latest
 bytemark/webdav:latest
+b3log/siyuan:latest
 ddsderek/easyimage:latest
 elestio/searxng:latest
 filebrowser/filebrowser:latest
@@ -20,8 +21,10 @@ minio/minio:latest
 ollama/ollama:latest
 redis
 vinlic/qwen-free-api:latest
+vinlic/kimi-free-api:latest
 whyour/qinglong:latest
 whyour/qinglong:latest
 xhofe/alist:main
 xiaoyaliu/alist:latest
 xhofe/alist:latest
+zingerbee/serverbee-web:latest
