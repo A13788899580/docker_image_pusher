@@ -22,7 +22,7 @@ redis
 vinlic/qwen-free-api:latest
 whyour/qinglong:latest
 whyour/qinglong:latest
-wbsu2003/lx-music-sync-server
+wbsu2003/lx-music-sync-server:latest
 xhofe/alist:main
 xiaoyaliu/alist:latest
 xhofe/alist:latest
