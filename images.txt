@@ -16,10 +16,10 @@ jellyfin/jellyfin:2024061005
 liwei2633/gopeed:latest
 linuxserver/ffmpeg:latest
 lobehub/lobe-chat:latest
-v2raya/v2raya:latest
 minio/minio:latest
 ollama/ollama:latest
 redis
+v2raya/v2raya:latest
 vinlic/qwen-free-api:latest
 vinlic/kimi-free-api:latest
 whyour/qinglong:latest
