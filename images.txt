@@ -16,7 +16,7 @@ jellyfin/jellyfin:2024061005
 liwei2633/gopeed:latest
 linuxserver/ffmpeg:latest
 lobehub/lobe-chat:latest
-mzz2017/v2raya:latest
+v2raya/v2raya:latest
 minio/minio:latest
 ollama/ollama:latest
 redis
