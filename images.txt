@@ -13,9 +13,9 @@ hslr/sun-panel:latest
 herberthe0229/iptv-sources
 hectorqin/reader:latest
 jellyfin/jellyfin:2024061005
-lijiahangmax/orion-visor-service:2.0.9
-lijiahangmax/orion-visor-mysql:2.0.9
-lijiahangmax/orion-visor-redis:2.0.9
+lijiahangmax/orion-visor-service:latest
+lijiahangmax/orion-visor-mysql:latest
+lijiahangmax/orion-visor-redis:latest
 liwei2633/gopeed:latest
 linuxserver/ffmpeg:latest
 lobehub/lobe-chat:latest
