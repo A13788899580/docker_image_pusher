@@ -1,4 +1,5 @@
 1panel/maxkb:latest
+adminer:standalone
 alexta69/metube:latest
 bytemark/webdav:latest
 b3log/siyuan:latest
