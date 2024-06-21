@@ -23,6 +23,8 @@ redis
 v2raya/v2raya:latest
 vinlic/qwen-free-api:latest
 vinlic/kimi-free-api:latest
+vinlic/deepseek-free-api:latest
+vinlic/zhipuai-agent-to-openai:latest
 whyour/qinglong:latest
 whyour/qinglong:latest
 xhofe/alist:main
