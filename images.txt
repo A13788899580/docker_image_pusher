@@ -26,7 +26,6 @@ vinlic/kimi-free-api:latest
 vinlic/deepseek-free-api:latest
 vinlic/zhipuai-agent-to-openai:latest
 whyour/qinglong:latest
-whyour/qinglong:latest
 xhofe/alist:main
 xiaoyaliu/alist:latest
 xhofe/alist:latest
