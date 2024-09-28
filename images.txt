@@ -1,1 +1,4 @@
 sickcodes/docker-osx:sonoma
+sickcodes/docker-osx:latest
+sickcodes/docker-osx:ventura
+sickcodes/docker-osx:monterey
